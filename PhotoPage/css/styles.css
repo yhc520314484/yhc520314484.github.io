@@ -243,40 +243,32 @@ html, body {
   background: transparent;
 }
 .nav-elem.nav-1 {
-  background-image: url(../wwwdata/images/a021.jpg);
+  background-image: url(../wwwdata/images/a001.jpg);
 }
 .nav-elem.nav-2 {
-  background-image: url(../wwwdata/images/a037.jpg);
+  background-image: url(../wwwdata/images/a002.jpg);
 }
 .nav-elem.nav-3 {
-  background-image: url(../wwwdata/images/a004.jpg);
+  background-image: url(../wwwdata/images/a003.jpg);
 }
 .nav-elem.nav-4 {
-  background-image: url(../wwwdata/images/a026.jpg);
+  background-image: url(../wwwdata/images/a004.jpg);
 }
 .nav-elem.nav-5 {
-  background-image: url(../wwwdata/images/pyGAjrX.jpg);
+  background-image: url(../wwwdata/images/a005.jpg);
 }
 .nav-elem.nav-6 {
-  background-image: url(../wwwdata/images/kDGZtoU.jpg);
+  background-image: url(../wwwdata/images/a006.jpg);
 }
 .nav-elem.nav-7 {
-  background-image: url(../wwwdata/images/JWqDSqx.jpg);
+  background-image: url(../wwwdata/images/a007.jpg);
 }
 .nav-elem.nav-8 {
-  background-image: url(../wwwdata/images/BxLZ53E.jpg);
+  background-image: url(../wwwdata/images/a008.jpg);
 }
 
 .nav-elem.nav-9 {
-  background-image: url(../wwwdata/images/TestPic.jpg);
-}
-
-.nav-elem.nav-10 {
-  background-image: url(../wwwdata/images/a014.jpg);
-}
-
-.nav-elem.nav-11 {
-  background-image: url(../wwwdata/images/a020.jpg);
+  background-image: url(../wwwdata/images/a009.jpg);
 }
 
 /* REAL SIDEBAR STYLES END */
@@ -293,70 +285,58 @@ html, body {
   height: 100%;
 }
 .section.section-1 .left-part {
-  background-image: url("../wwwdata/images/a021.jpg");
+  background-image: url("../wwwdata/images/a001.jpg");
 }
 .section.section-1 .bg-part {
-  background-image: url("../wwwdata/images/a021.jpg");
+  background-image: url("../wwwdata/images/a001.jpg");
 }
 .section.section-2 .left-part {
-  background-image: url("../wwwdata/images/a037.jpg");
+  background-image: url("../wwwdata/images/a002.jpg");
 }
 .section.section-2 .bg-part {
-  background-image: url("../wwwdata/images/a037.jpg");
+  background-image: url("../wwwdata/images/a002.jpg");
 }
 .section.section-3 .left-part {
-  background-image: url("../wwwdata/images/a004.jpg");
+  background-image: url("../wwwdata/images/a003.jpg");
 }
 .section.section-3 .bg-part {
-  background-image: url("../wwwdata/images/a004.jpg");
+  background-image: url("../wwwdata/images/a003.jpg");
 }
 .section.section-4 .left-part {
-  background-image: url("../wwwdata/images/a026.jpg");
+  background-image: url("../wwwdata/images/a004.jpg");
 }
 .section.section-4 .bg-part {
-  background-image: url("../wwwdata/images/a026.jpg");
+  background-image: url("../wwwdata/images/a004.jpg");
 }
 .section.section-5 .left-part {
-  background-image: url("../wwwdata/images/VWYl1EC.jpg");
+  background-image: url("../wwwdata/images/a005.jpg");
 }
 .section.section-5 .bg-part {
-  background-image: url("../wwwdata/images/VWYl1EC.jpg");
+  background-image: url("../wwwdata/images/a005.jpg");
 }
 .section.section-6 .left-part {
-  background-image: url("../wwwdata/images/ga3BiDw.jpg");
+  background-image: url("../wwwdata/images/a006.jpg");
 }
 .section.section-6 .bg-part {
-  background-image: url("../wwwdata/images/ga3BiDw.jpg");
+  background-image: url("../wwwdata/images/a006.jpg");
 }
 .section.section-7 .left-part {
-  background-image: url("../wwwdata/images/Mei5S7f.jpg");
+  background-image: url("../wwwdata/images/a007.jpg");
 }
 .section.section-7 .bg-part {
-  background-image: url("../wwwdata/images/Mei5S7f.jpg");
+  background-image: url("../wwwdata/images/a007.jpg");
 }
 .section.section-8 .left-part {
-  background-image: url("../wwwdata/images/jAY4044.jpg");
+  background-image: url("../wwwdata/images/a008.jpg");
 }
 .section.section-8 .bg-part {
-  background-image: url("../wwwdata/images/jAY4044.jpg");
+  background-image: url("../wwwdata/images/a008.jpg");
 }
 .section.section-9 .left-part {
-  background-image: url("../wwwdata/images/TestPic.jpg");
+  background-image: url("../wwwdata/images/a009.jpg");
 }
 .section.section-9 .bg-part {
-  background-image: url("../wwwdata/images/TestPic.jpg");
-}
-.section.section-10 .left-part {
-  background-image: url("../wwwdata/images/a014.jpg");
-}
-.section.section-10 .bg-part {
-  background-image: url("../wwwdata/images/a014.jpg");
-}
-.section.section-11 .left-part {
-  background-image: url("../wwwdata/images/a020.jpg");
-}
-.section.section-11 .bg-part {
-  background-image: url("../wwwdata/images/a020.jpg");
+  background-image: url("../wwwdata/images/a009.jpg");
 }
 
 
@@ -411,19 +391,19 @@ html, body {
 }
 
 .section-heading {
-  top: 26.7rem;
-  left: 80rem;
-  font-size: 6rem;
+  top: 55rem;
+  left: 64rem;
+  font-size: 4rem;
   line-height: 1;
   font-family: pfd-medium;
-  padding: 0 2rem 10rem;
-  background: rgba(0, 0, 0, 0.4);
+  padding: 0 15rem 15rem 2rem;
+ background: rgba(0, 0, 0, 0.4);
 
 }
 
 .additional-text {
-  top: 33.2rem;
-  left: 82rem;
+  top: 60rem;
+  left: 66rem;
   font-size: 2rem;
   font-family: ptsans-regular;
 }
